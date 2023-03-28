@@ -1,1 +1,1 @@
-solutions  for tea project 0x11. C - printf.
+Solutions for the project 0x11. C - printf.
